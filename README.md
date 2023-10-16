@@ -1,4 +1,4 @@
 # learning-git  
 learning git from youtube
 <br>
-author:shrishti
+br tag used for write in new line
